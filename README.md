@@ -1,5 +1,7 @@
 # Python projects for practice  
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat&logo=Python&logoColor=white"/>   
 Data science course projects & personal projects
+2022.09 ~ 2022.12
 
 ### Project Contents
 - practice_python_p1.py  
